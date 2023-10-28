@@ -20,6 +20,8 @@
   font-family: "Poppins";
   font-weight: 600;
   max-width: fit-content;
+  border: none;
+  cursor: pointer;
 }
 
 .botao.secundario {
